@@ -110,17 +110,6 @@ Sparse graphs have lower DFS and Relax counts.
 
 Dense graphs exhibit more relaxations but remain efficient (O(V + E) complexity).
 
-🔮 Future Improvements
-
-Add Longest Path for DAGs
-
-Add Dijkstra’s Algorithm for weighted cyclic graphs
-
-Create graph visualizations using JGraphT or Graphviz
-
-Integrate parallel computation for large-scale datasets
-
-Auto-generate PDF reports with matplotlib-like charts
 
 👨‍💻 Author
 
